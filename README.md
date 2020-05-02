@@ -15,7 +15,6 @@ Brad Traversy's Javascript projects From 2 Udemy Courses:
 
 ## 20 Web Projects With Vanilla JavaScript
 
-- [Course Link](https://www.udemy.com/course/web-projects-with-vanilla-javascript/?referralCode=F9B7C7FED834F91ADE75)
 - [Course Info Website](https://vanillawebprojects.com)
 
 |  #  |                                                     Project                                                     |                                 Live Demo                                  |
@@ -45,8 +44,7 @@ NOTE ON PULL REQUESTS: All of these projects are part of the course. While I do 
 
 ## Brad Traversy Fun JavaScript project from YouTube
 
-Free Code Camps link for the technical requierement for the JavaScript projects:
-
+1. [JSON Crash Course](https://www.youtube.com/watch?v=wI1CWzNtE-M&list=RDCMUC29ju8bIPH5as8OGnQzwJyA&index=11): In this video we will talk about JSON, JavaScript object literals and AJAX. Ill show you how to create JSON objects and arrays and also how to make an Ajax request to a .json file
 1. [JavaScript Cardio [Session 1] - Reversals, FizzBuzz, MaxChar](https://www.youtube.com/watch?v=M2bJBuaOeOQ): Intermediate whiteboard style JavaScript challenges and solutions to sharpen your skills and prepare you for interviews.
 1. [JavaScript Cardio [Session 2] - LongestWord, Anagrams, Array Chunking](https://www.youtube.com/watch?v=FfchU1FS2IA): Session 2 of our Intermediate whiteboard style JavaScript challenges and solutions to sharpen your skills and prepare you for interviews.
 1. [JavaScript Cardio [Session 3] - Add All, Sum Primes, Seek & Destroy](https://www.youtube.com/watch?v=tcoiPHktCwQ): Session 3 of our Intermediate whiteboard style JavaScript challenges and solutions to sharpen your skills and prepare you for interviews.
